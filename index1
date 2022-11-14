@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <META HTTP-EQUIV="Content-Language" CONTENT="html/text" "charset="UTF-8"> 
+    <META NAME="Description" CONTENT="studlabs"> 
+    <META NAME="Keywords" CONTENT="ru"> 
+    <META NAME="Author" CONTENT="yvtln"> 
+    <TITLE>lab6</TITLE>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <style>
+      p {
+        text-indent:30 px;
+      }
+      p:first-letter {
+        color: #ffff00;
+        font-size: 300%;
+      }
+      a{
+        color:#fff111;
+      }
+      a:visited{
+        color#666dff;
+      }
+      a:active{
+        color:#d34222;
+      }
+    </style>
+  </head>
+  <body>
+    <table border="1">
+      <tr>
+        <th align="centre" colspan="30">Lab 6</th>
+      </tr>
+      <tr>
+        <td align="centre" colspan="30">Labs works</td>
+      </tr>
+      <tr>
+        <td> <li type="disc">
+          <a href="https://www.moodle.ru/kstu" style="color:#fff111">
+          all labs
+          </a></li></td>
+          <td> 
+          <li type="disc"><p>Spiridonova Gloria</p></li>
+          <li type="disc"><p>1211-23</p></li>
+          <li type="disc"><a href="redirect.html">KNITY-KHTI</a></li>
+          </td>
+      </tr>
+    </table>
+  </body>
+</html>
