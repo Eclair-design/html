@@ -1,0 +1,33 @@
+body {
+  background-color:$1f486f;
+  color:#ffffff;
+  font-family:"Courier";
+  font-size:"14";
+}
+.base{
+  width:auto;
+  margin-left: 0px;
+  margin-right: 0px;
+  min-width:1000px;
+  padding: 0pxl
+  display:table;
+  border: 1px solid #000000;
+}
+.base-row {
+  Display: table-row;
+  border: 1px solid #000000;
+}
+.base li {
+  Display: table-cell;
+  width:33%
+  border: 1px solid #000000;
+}
+.cell1 {
+  border: 1px solid #000000;
+}
+.cell2 {
+  border: 1px solid #000000;
+}
+.cell3 {
+  border: 1px solid #000000;
+}
